@@ -14,10 +14,10 @@
 
 <!--  Github stats-->
 <div align="center">
-<a href="https://github.com/huyhomie66/huyhomie66">
+<!-- <a href="https://github.com/huyhomie66/huyhomie66">
     <img src="https://github.com/huyhomie66/github-stats/blob/master/generated/overview.svg" />
     <img src="https://github.com/huyhomie66/github-stats/blob/master/generated/languages.svg" />
-</a>
+</a> -->
 </div>
 
 <br/>
