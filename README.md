@@ -4,21 +4,22 @@
 [comment]: <> ([![huyhomie66's_Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=huyhomie66&langs_count=10a&layout=compact&#41;]&#40;https://github.com/huyhomie66/github-readme-stats&#41;)
 
 
-<!-- Github-readme stats -->
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<!--  Github stats-->
 <div align="center">
-<a href="https://github.com/huyhomie66/huyhomie66">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=huyhomie66&hide_border=true&include_all_commits=true&count_private=true&&hide_title=true&show_icons=true&#41line_height=21&text_color=000&icon_color=000&bg_color=0,ffffff,4ca2cd&theme=dark" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyhomie66&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,4ca2cd,ffffff&theme=graywhite" />
-</a>
+<!-- <a href="https://github.com/huyhomie66/huyhomie66">
+    <img src="https://github.com/huyhomie66/github-stats/blob/master/generated/overview.svg" />
+    <img src="https://github.com/huyhomie66/github-stats/blob/master/generated/languages.svg" />
+</a> -->
 </div>
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <h3 align="center">Languages and Tools</h3>
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) 
