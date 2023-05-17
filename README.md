@@ -1,4 +1,4 @@
-More about me: https://liam-tran.netlify.app/
+More about me: [http://liam-artist.com/](http://liam-artist.com/)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=huyhomie66&count_private=true&show_icons=true)
